@@ -56,6 +56,7 @@ Cleaned Data – Prepared for analysis.
 Dashboard – Visual summary with filters.
 
 Use slicers to drill down insights by category, region, and customer attributes.
+![image alt](https://github.com/dineshrk2005/Bike_Sales-Dashboard/blob/main/project%202/image/Screenshot%202025-08-02%20210352.png?raw=true)
 
 📌 Author
 Dinesh R.
